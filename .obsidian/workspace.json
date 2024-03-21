@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cda040e05df74284",
+        "id": "3bf16b6d3f495075",
         "type": "tabs",
         "children": [
           {
-            "id": "d33175f1b4092513",
+            "id": "685610992b19afac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Architecture Course.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "182a255dbbe71f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Register.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "821ba05d3e41307d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Push.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Architecture Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Architecture Course.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,48 +148,47 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "d33175f1b4092513",
+  "active": "685610992b19afac",
   "lastOpenFiles": [
-    "4913",
-    "obsidian-school/README.md",
-    "obsidian-school/LICENSE",
-    "obsidian-school",
-    "README.md",
-    "LICENSE",
-    "Schedule.md",
-    "Computer Architecture Course.md",
-    "Computer Science.md",
-    "Central Processing Unit.md",
-    "Core.md",
-    "MIPS.md",
-    "Instruction Set.md",
-    "Register.md",
     "Push.md",
-    "Stack Pointer.md",
-    "Procedure.md",
-    "instruction.md",
+    "Register.md",
+    "Computer Architecture/Syllabus.pdf",
+    "Computer Architecture/Schedule.pdf",
+    "2's Complement.md",
     "x86_64.md",
     "Syllabus.md",
+    "Stack Pointer.md",
     "Stack.md",
     "Sign Extension.md",
+    "Schedule.md",
     "Register File.md",
+    "README.md",
     "Random Access Memory.md",
     "R Instruction.md",
     "Program Counter.md",
+    "Procedure.md",
     "Pop.md",
-    "PC-branch.png",
-    "Memory.md",
-    "Immediate Instruction.md",
-    "Computer Architecture/Schedule.pdf",
     "PC-Jump.png",
-    "Computer Architecture/Syllabus.pdf",
+    "PC-branch.png",
+    "MIPS.md",
+    "Memory.md",
+    "Jump Instruction.md",
+    "J Instruction.md",
+    "Instruction Set.md",
+    "Immediate Instruction.md",
+    "I Instruction.md",
+    "Floating Point Imprecision.md",
+    "Floating point.md",
+    "4913",
+    "obsidian-school/LICENSE",
+    "obsidian-school",
+    "LICENSE",
     "Pasted image 20240318223024.png",
     "1",
     "Pasted image 20240318223048.png",
     "Pasted image 20240318223038.png",
     "Computer Architecture/ISA 1",
     "Computer Architecture/Syllabus.pdf.crdownload",
-    "Schedule.pdf",
-    "Computer Architecture/MISP"
+    "Schedule.pdf"
   ]
 }
