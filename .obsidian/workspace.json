@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf16b6d3f495075",
+        "id": "25360b341f70838a",
         "type": "tabs",
         "children": [
           {
-            "id": "685610992b19afac",
+            "id": "fc6ce1ab738d69f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -148,37 +156,41 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "685610992b19afac",
+  "active": "fc6ce1ab738d69f2",
   "lastOpenFiles": [
-    "Push.md",
     "Register.md",
-    "Computer Architecture/Syllabus.pdf",
-    "Computer Architecture/Schedule.pdf",
-    "2's Complement.md",
     "x86_64.md",
+    "2's Complement.md",
+    "Watt.md",
+    "Voltage.md",
+    "Two's Complement.md",
     "Syllabus.md",
     "Stack Pointer.md",
-    "Stack.md",
+    "Bit.md",
     "Sign Extension.md",
     "Schedule.md",
     "Register File.md",
     "README.md",
     "Random Access Memory.md",
     "R Instruction.md",
+    "Push.md",
     "Program Counter.md",
     "Procedure.md",
     "Pop.md",
     "PC-Jump.png",
     "PC-branch.png",
+    "Parallell.md",
+    "Overflow Example.png",
+    "Overflow.md",
+    "Ohm.md",
+    "Noise.md",
+    "Most Significant Bit.md",
     "MIPS.md",
     "Memory.md",
-    "Jump Instruction.md",
-    "J Instruction.md",
-    "Instruction Set.md",
-    "Immediate Instruction.md",
-    "I Instruction.md",
-    "Floating Point Imprecision.md",
-    "Floating point.md",
+    "Digital Circuit Evaluation.png",
+    "Pasted image 20240324181912.png",
+    "Computer Architecture/Syllabus.pdf",
+    "Computer Architecture/Schedule.pdf",
     "4913",
     "obsidian-school/LICENSE",
     "obsidian-school",

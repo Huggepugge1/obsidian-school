@@ -7,7 +7,7 @@ aliases:
 
 | ***Section*** | opcode | rs | rt | rd | shamt | funct |
 | ------------- | ------ | -- | -- | -- | ----- | ----- |
-| ***Size*** | 6 bits | 5 bits | 5 bits | 5 bits | 5 bits | 6 bits |
+| ***Size*** | 6 [[Bit|bits]] | 5 [[Bit|bits]] | 5 [[Bit|bits]] | 5 [[Bit|bits]] | 5 [[Bit|bits]] | 6 [[Bit|bits]] |
 | `add R8, R17, R18` | 00000 | 10001 | 10010 | 01000 | 00000 | 100000 |
 
 ## Sections
@@ -15,5 +15,5 @@ aliases:
 - rs - source 1. First [[register]] to use
 - rt - source 2. Second [[register]] to use
 - rd - destination. Destination [[register]]
-- shamt - [shift](Binary shift) amount.
+- shamt - [[Binary Shift|shift]] amount.
 - funct - Function selector. Using [[2's Complement]], addition and subtraction is the same thing. Therefore we use the same opcode (0). The only thing we chage is the funct from 32 (addition) to 34 (subtraction).

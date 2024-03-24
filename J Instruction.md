@@ -2,7 +2,7 @@
 
 | ***Section*** | opcode | target |
 | ------------- | ------ | ------ |
-| ***Size*** | 6 bits | 26 bits |
+| ***Size*** | 6 [[Bit|bits]] | 26 [[Bit|bits]] |
 | `j label (123)` | 000010 | 00 00000000 00000000 01111011 |
 
 #### Sections

@@ -2,7 +2,7 @@
 
 | ***Section*** | opcode | rs | rt | imm |
 | ------------- | ------ | -- | -- | --------- |
-| ***Size*** | 6 bits | 5 bits | 5 bits | 16 bits |
+| ***Size*** | 6 [[Bit|bits]] | 5 [[Bit|bits]] | 5 [[Bit|bits]] | 16 [[Bit|bits]] |
 | `addi R8, R17, 10` | 001000 | 10001 | 10010 | 00000000 00001010 |
 
 #### Sections
