@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dynamic Random Access Memory.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dynamic Random Access Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dynamic Random Access Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dynamic Random Access Memory.md"
               }
             }
           },
@@ -158,35 +158,35 @@
   },
   "active": "fc6ce1ab738d69f2",
   "lastOpenFiles": [
+    "Static Random Access Memory.md",
+    "Random Access Memory.md",
+    "Dynamic Random Access Memory.md",
+    "Clock.md",
+    "Flip Flop.md",
+    "Latch.md",
+    "Counter.md",
+    "Program Counter.md",
+    "Memory.md",
+    "Decoder.md",
+    "Encoder.md",
+    "1-Hot.md",
+    "Demultiplexer.md",
+    "Multiplexer.md",
+    "Karnaugh Map.md",
+    "Logic Gate.md",
+    "Or Gate.md",
+    "And Gate.md",
+    "Most Significant Bit.md",
+    "Bit.md",
+    "README.md",
     "Register.md",
     "x86_64.md",
     "2's Complement.md",
     "Watt.md",
     "Voltage.md",
-    "Two's Complement.md",
-    "Syllabus.md",
-    "Stack Pointer.md",
-    "Bit.md",
-    "Sign Extension.md",
-    "Schedule.md",
-    "Register File.md",
-    "README.md",
-    "Random Access Memory.md",
-    "R Instruction.md",
-    "Push.md",
-    "Program Counter.md",
-    "Procedure.md",
-    "Pop.md",
     "PC-Jump.png",
     "PC-branch.png",
-    "Parallell.md",
     "Overflow Example.png",
-    "Overflow.md",
-    "Ohm.md",
-    "Noise.md",
-    "Most Significant Bit.md",
-    "MIPS.md",
-    "Memory.md",
     "Digital Circuit Evaluation.png",
     "Pasted image 20240324181912.png",
     "Computer Architecture/Syllabus.pdf",

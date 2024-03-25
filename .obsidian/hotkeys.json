@@ -76,5 +76,15 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "app:open-help": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
