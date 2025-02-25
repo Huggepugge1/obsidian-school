@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e60c3b5662756e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d67747cc4022408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07c366784f3cc03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Register.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Register"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a7097c8f49add54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d2ac49c8ede04748",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "03590f4a3b3db31d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8ada3fcbec05af61",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "869bfb59be6cb14e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "307755bc63f52f5b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e407f68c499a73b7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Register.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0a31193f7f19a66d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Register.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9bacd3c64487203e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Register.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a07c366784f3cc03",
+  "lastOpenFiles": [
+    "Logik och bevisteknik/2024-03-18.md",
+    "Register.md",
+    "Procedure.md",
+    "I Instruction.md",
+    "Endianness.md",
+    "Core.md",
+    "Central Processing Unit.md",
+    "Voltage.md",
+    "Noise.md",
+    "Ampere.md",
+    "Binary Number.md",
+    "Bit.md",
+    "Byte.md",
+    "Carry.md",
+    "Two's Complement.md",
+    "R Instruction.md",
+    "2's Complement.md",
+    "Binary Shift.md",
+    "Random Access Memory.md",
+    "Memory.md",
+    "RAM.md",
+    "Syllabus.md",
+    "Test.md",
+    "x86_64.md",
+    "Watt.md",
+    "Stack.md",
+    "PC-branch.png",
+    "PC-Jump.png",
+    "Overflow Example.png",
+    "LICENSE",
+    "Digital Circuit Evaluation.png",
+    "Computer Architecture/Syllabus.pdf",
+    "Computer Architecture/Schedule.pdf",
+    "Computer Architecture",
+    "Logik och bevisteknik/Untitled.canvas",
+    "Logik och bevisteknik"
+  ]
+}

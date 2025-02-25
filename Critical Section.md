@@ -1,1 +1,0 @@
-  A section of code that only one [[Thread]] should access at once.

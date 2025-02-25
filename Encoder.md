@@ -1,1 +1,0 @@
-The opposite of a [[Decoder]]. Takes a [[1-Hot]] as input and outputs a [[Binary Number]].

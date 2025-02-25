@@ -1,1 +1,0 @@
-A race condition is a behaviour in a program where the result depends on the order of the [[Thread|threads]] execution

@@ -1,1 +1,2 @@
+# Core
 A independent processing unit. If a [[Central Processing Unit|CPU]] is "single core" a core is the same thing as a [[Central Processing Unit|CPU]] but usually a [[Central Processing Unit|CPU]] consists of multiple cores. With cores, "the more the marrier", applies.
