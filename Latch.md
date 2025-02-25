@@ -1,1 +1,0 @@
-A latch has two inputs, a value and a [[Clock]]. The output is only updated when the [[Clock]] sends out a pulse, otherwise it is the same as the last [[clock cycle]].

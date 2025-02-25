@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "06cfc85eab085655",
+        "id": "1d97e2ff34e6fd38",
         "type": "tabs",
         "children": [
           {
-            "id": "730bbad696209d8c",
+            "id": "57d60ed87bbf15d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/M4/Seminar/Q22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Q22"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -180,47 +180,16 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "floating": {
-    "id": "a99d588750798ec3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "de43c6a43e5b961e",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0433e20dda19dc1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1c516ab48e3fe9ef",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OSPP/M4/Seminar/Questions.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Questions"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1c516ab48e3fe9ef",
+  "active": "57d60ed87bbf15d7",
   "lastOpenFiles": [
-    "OSPP/M4/Seminar/Q22.md",
+    "conflict-files-obsidian-git.md",
     "OSPP/M4/Seminar/Questions.pdf",
+    "Logik och bevisteknik/2024-03-18.md",
+    "Logik och bevisteknik",
+    "Computer Architecture/Syllabus.pdf",
+    "Computer Architecture/Schedule.pdf",
+    "Computer Architecture",
+    "OSPP/M4/Seminar/Q22.md",
     "Central Processing Unit.md",
     "OSPP.md",
     "OSPP/M4/Seminar/Q26.md",
@@ -245,8 +214,6 @@
     "OSPP/M4/Seminar/Q9.md",
     "OSPP/M4/Seminar/Q8.md",
     "OSPP/M4/Seminar/Q15.md",
-    "OSPP/M4/Seminar/Q13.md",
-    "Atomic operation.md",
     "PC-branch.png",
     "Overflow Example.png",
     "Digital Circuit Evaluation.png",
@@ -257,12 +224,8 @@
     "OSPP",
     "DARK",
     "DARK/Syllabus.pdf",
-    "DARK/Schedule.pdf",
-    "J",
     "PC-Jump.png",
     "Pasted image 20240324181912.png",
-    "4913",
-    "obsidian-school/LICENSE",
     "Pasted image 20240318223024.png",
     "Pasted image 20240318223048.png",
     "Pasted image 20240318223038.png"

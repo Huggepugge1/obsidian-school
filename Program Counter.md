@@ -1,5 +1,5 @@
 ---
 aliases: PC
 ---
-
-[[Register]] whose content is the current instructions [[Address]].
+# Program Counter
+[[Register]] whose content is the current instructions [[address]].

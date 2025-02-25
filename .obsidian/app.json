@@ -2,7 +2,5 @@
   "defaultViewMode": "source",
   "livePreview": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "vimMode": true,
-  "newFileLocation": "current"
+  "promptDelete": false
 }

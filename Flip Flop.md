@@ -1,1 +1,0 @@
-Similar to a [[Latch]], but only changes values on a [[Clock|clocks]] edge.

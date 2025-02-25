@@ -1,4 +1,2 @@
-Memories are 2 dimensional arrays of cells where each cell stores one [[Bit]]. When the data is read, the computer reads it as rows. The read is then sent to the end of the array to be transmitted. This means row enables (reads) is a [[1-Hot]] operation.
-
-# SLC vs MLC vs TLC vs QLC vs PLC
-SLC means that ever memory cell stores one [[Bit]]. In newer SSDs we can actually store more than one, in fact we can store up to 5 [[Bit|bits]] per cell using what's known as PLC. This is done by using different [[Voltage|voltages]] to represent different values. The main problem with this is [[Noise]] and speed. But with a lot of error correcting the space savings still outweigh the negatives of using multiple [[Bit|bits]] per cell. Today TLC is the most common.
+# Memory
+A big, semi-fast block / array of data. Addressable. (see [[Random Access Memory|RAM]]).

@@ -1,6 +1,7 @@
-An [[Instruction Set]] for old 32-[[Bit]] [[Central Processing Unit|CPU]]s. It is not very simple and nowadays outdated. Although you would never see one in a computer today you might find some in printers and other non performance focused appliances.
+# MIPS
+An [[instruction set]] for old 32-[[bit]] [[Central Processing Unit|CPU]]s. It is not very simple and nowadays outdated. Although you would never see one in a computer today you might find some in printers and other non performance focused appliances.
 
-# [[Register]] Names
+## [[Register]] Names
 MIPS has 32 general purpose [[Register|regisers]]. They are called R0-R31. There is a problem though and that is the fact that it is hard to remember what 32 different things are used for. Therefore we give them better names.
 
 | Number | Name | Function |
