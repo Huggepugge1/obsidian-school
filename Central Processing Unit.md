@@ -3,8 +3,7 @@ aliases:
   - CPU
 ---
 
-# Central Processing Unit
-Does the calculations, runs programs etc. on a computer. Can sometimes be referring to a [[core]].
+Does the calculations, runs programs etc. on a computer. Can sometimes be referring to a [[Core]].
 
-## Internals
-A [[Central Processing Unit|CPU]], or in this case [[core]], consists of many smaller parts. Some of them are [[registers]], [[ALU]] and [[Clock]].
+# Internals
+A [[Central Processing Unit|CPU]], or in this case [[Core]], consists of many smaller parts. Some of them are [[registers]], [[Arithmetic Logical Unit]] and [[Clock]].

@@ -1,2 +1,1 @@
-# [[Register]] File
-All [[register]]s in a [[Central Processing Unit|CPU]] as a hole.
+All [[Register|registers]] in a [[Central Processing Unit|CPU]] as a hole.

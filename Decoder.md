@@ -1,2 +1,1 @@
-# Decoder
-The opposite of a [[Encoder]]. Takes a [[binary number]] as input and outputs a [[1-Hot]].
+The opposite of a [[Encoder]]. Takes a [[Binary Number]] as input and outputs a [[1-Hot]].

@@ -1,7 +1,6 @@
-# Or Gate
 A logic gate which outputs 1 if *ONE OR MORE* of the inputs is 1.
 
-## Truth table
+# Truth table
 ==OBS! This is a two input OR gate==
 
 | X | Y | Out |

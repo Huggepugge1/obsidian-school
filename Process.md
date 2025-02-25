@@ -1,0 +1,1 @@
+A process is a executable currently executing and its respective [[Memory]].

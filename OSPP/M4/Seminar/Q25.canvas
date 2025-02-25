@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"521e7a9f1433a07a","type":"group","x":-524,"y":-81,"width":1193,"height":638,"label":"Problem"},
+		{"id":"1f925c6a2587be83","type":"group","x":880,"y":-81,"width":1193,"height":638,"label":"Solution"},
+		{"id":"fde967cfc0bfd15d","type":"text","text":"# Resource ","x":-20,"y":280,"width":200,"height":70,"color":"4"},
+		{"id":"7a9d496a7fd67c6a","type":"text","text":"# Medium Priority","x":-70,"y":80,"width":290,"height":60,"color":"2"},
+		{"id":"f5df2267b53be8b5","type":"text","text":"# Medium Priority","x":1334,"y":80,"width":300,"height":60,"color":"2"},
+		{"id":"13477dee9cbfc29b","type":"text","text":"# Resource ","x":1384,"y":280,"width":200,"height":80,"color":"4"},
+		{"id":"deb698ef5430e8fc","type":"text","text":"# High Priority","x":1724,"y":290,"width":236,"height":60,"color":"3"},
+		{"id":"8afb87f5f51cd020","type":"text","text":"# High Priority","x":924,"y":290,"width":300,"height":60,"color":"3"},
+		{"id":"977f3fcfb232ef3c","type":"text","text":"# Low Priority","x":320,"y":280,"width":240,"height":69,"color":"1"},
+		{"id":"cc107f4443368325","type":"text","text":"# High Priority","x":-420,"y":289,"width":240,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"3e67575ba9214fac","fromNode":"cc107f4443368325","fromSide":"right","toNode":"fde967cfc0bfd15d","toSide":"left","label":"Waiting"},
+		{"id":"bd3fa689de241a36","fromNode":"fde967cfc0bfd15d","fromSide":"right","toNode":"977f3fcfb232ef3c","toSide":"left","label":"Holding"},
+		{"id":"5e5258fc41f7d50b","fromNode":"7a9d496a7fd67c6a","fromSide":"right","toNode":"977f3fcfb232ef3c","toSide":"top","label":"Kick out (Preempt)"},
+		{"id":"03263b3f82054fb0","fromNode":"977f3fcfb232ef3c","fromSide":"bottom","toNode":"cc107f4443368325","toSide":"bottom","label":"Now this is blocked for a while"},
+		{"id":"56a531f36ac0cefd","fromNode":"13477dee9cbfc29b","fromSide":"right","toNode":"deb698ef5430e8fc","toSide":"left","label":"Holding"},
+		{"id":"181e3b759228f193","fromNode":"8afb87f5f51cd020","fromSide":"right","toNode":"13477dee9cbfc29b","toSide":"left","label":"Waiting"},
+		{"id":"a925b2011330a144","fromNode":"deb698ef5430e8fc","fromSide":"bottom","toNode":"8afb87f5f51cd020","toSide":"bottom","label":"Now this can run sooner"},
+		{"id":"3cfdb5101e276d78","fromNode":"f5df2267b53be8b5","fromSide":"right","toNode":"deb698ef5430e8fc","toSide":"top","label":"Prevented Preemption"},
+		{"id":"7d1f977ddfd0a002","fromNode":"521e7a9f1433a07a","fromSide":"right","toNode":"1f925c6a2587be83","toSide":"left","label":"Solving"},
+		{"id":"4d2af70404d327f4","fromNode":"8afb87f5f51cd020","fromSide":"top","toNode":"deb698ef5430e8fc","toSide":"top","label":"Inherit the priority"}
+	]
+}

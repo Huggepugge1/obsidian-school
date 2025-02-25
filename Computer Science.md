@@ -2,5 +2,4 @@
 aliases: CS
 ---
 
-# Computer Science
-Basically the study of computers.
+The study of computers.

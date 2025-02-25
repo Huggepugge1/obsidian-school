@@ -1,0 +1,1 @@
+Two or more [[Thread|threads]] accessing the same resource at the same time. (Not [[Mutual Exclusion|mutually exclusively]])

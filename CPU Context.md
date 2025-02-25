@@ -1,0 +1,1 @@
+A [[Central Processing Unit|CPU]] context is the values of all the [[Register|registers]].

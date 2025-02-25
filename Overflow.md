@@ -1,2 +1,1 @@
-# Overflow
-Overflow is the concept of some operation needing more space than is available. For example, if two 32-[[bit]] numbers get added together and the result is greater than what fits inside one (2^31-1), the [[carry]] gets discarded.
+Overflow is the concept of some operation needing more space than is available. For example, if two 32-[[Bit]] numbers get added together and the result is greater than what fits inside one (2^31-1), the [[Carry]] gets discarded.

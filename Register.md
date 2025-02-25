@@ -3,28 +3,28 @@ aliases:
   - registers
   - regisers
 ---
-# Register
-A register is one component of the [[CPU]] where data currently being used is stored. For example, if an addition instruction would be performed, `add rax, rbx`([[x86_64]]), rax and rbx are registers where rbx is added to rax and the resulting value being stored in rax. In a [[CPU]], there are very few registers ([[MIPS]] uses 32 general purpose registers) but they are very fast (about 200 times faster than [[memory]]).
+
+A register is one component of the [[CPU]] where data currently being used is stored. For example, if an addition instruction would be performed, `add rax, rbx`([[x86_64]]), rax and rbx are registers where rbx is added to rax and the resulting value being stored in rax. In a [[CPU]], there are very few registers ([[MIPS]] uses 32 general purpose registers) but they are very fast (about 200 times faster than [[Memory]]).
 
 
-## Special Registers
+# Special Registers
 Some registers have predetermined [[Procedure|functions]] and should not be tampered with.
 
 ==OBS! This text uses [[MIPS]] as an example! All of the registers below may and will probably not be the same in other instruction sets!==
-### R0
+## R0
 This register always has the value 0.
 
-### R29 / R31
+## R29 / R31
 These are used when [[functions]] are called.
 
-### [[Program Counter|PC]]
-[[Program Counter]] points to the [[address]] of the current instruction in [[memory]].
+## [[Program Counter|PC]]
+[[Program Counter]] points to the [[Address]] of the current instruction in [[Memory]].
 
-### Hi & Lo Results of Multiplication
+## Hi & Lo Results of Multiplication
 I don't know how computers do multiplication but something about that.
 
-### [[Floating Point]] Registers
-Something about [[floating point]] numbers.
+## [[Floating point]] Registers
+Something about [[Floating point]] numbers.
 
-### Control Registers
+## Control Registers
 Used for errors and status codes.

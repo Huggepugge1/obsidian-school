@@ -1,2 +1,1 @@
-# 1-Hot
-In a 1-hot number, **one and exactly one** [[bit]] is 1 and the rest is 0. This means it is similar to binary but every [[bit]] represents one number. For example 7 would be 1000_0000 (Starting from 0, the 7th [[bit]] is set).
+In a 1-hot number, **one and exactly one** [[Bit]] is 1 and the rest is 0. This means it is similar to binary but every [[Bit]] represents one number. For example 7 would be 1000_0000 (Starting from 0, the 7th [[Bit]] is set).

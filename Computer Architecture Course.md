@@ -1,6 +1,6 @@
 # [Course Page](https://uppsala.instructure.com/courses/88441)
 ## [[Schedule.pdf|Schedule]]
-## [Syllabus](Syllabus.pdf) - [Definition](Syllabus)
+## [Syllabus](Syllabus.pdf) - [Definition](Syllabus.md)
 ## [Grading](Syllabus.pdf#page=2)
 
 | Module        | HP  | Task                                                      | Grading  |

@@ -1,2 +1,1 @@
-# Carry
-A carry is a [[bit]] which did not fit inside a position during an operation. For example, when adding 1 and 1 together, we have to carry the 1 ($1_{binary} + 1_{binary} = 10_{binary} + 0_{binary}$) where the 1 in $10_{binary}$ is a carry.
+A carry is a [[Bit]] which did not fit inside a position during an operation. For example, when adding 1 and 1 together, we have to carry the 1 ($1_{binary} + 1_{binary} = 10_{binary} + 0_{binary}$) where the 1 in $10_{binary}$ is a carry.

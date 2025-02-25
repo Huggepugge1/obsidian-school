@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25360b341f70838a",
+        "id": "06cfc85eab085655",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6ce1ab738d69f2",
+            "id": "730bbad696209d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Random Access Memory.md",
+                "file": "OSPP/M4/Seminar/Q22.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Q22"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Random Access Memory.md",
+                "file": "OSPP/M4/Seminar/Questions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Random Access Memory.md",
+                "file": "OSPP/M4/Seminar/Questions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Questions"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Random Access Memory.md"
-              }
+                "file": "OSPP/M4/Seminar/Questions.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions"
             }
           },
           {
@@ -134,15 +156,17 @@
             "type": "leaf",
             "state": {
               "type": "alias-management_list-aliases-view",
-              "state": {}
+              "state": {},
+              "icon": "bullet-list",
+              "title": "ListAliasesView"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,51 +180,91 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "fc6ce1ab738d69f2",
+  "floating": {
+    "id": "a99d588750798ec3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "de43c6a43e5b961e",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0433e20dda19dc1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1c516ab48e3fe9ef",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OSPP/M4/Seminar/Questions.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Questions"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "730bbad696209d8c",
   "lastOpenFiles": [
-    "Static Random Access Memory.md",
-    "Random Access Memory.md",
-    "Dynamic Random Access Memory.md",
-    "Clock.md",
-    "Flip Flop.md",
-    "Latch.md",
-    "Counter.md",
-    "Program Counter.md",
-    "Memory.md",
-    "Decoder.md",
-    "Encoder.md",
-    "1-Hot.md",
-    "Demultiplexer.md",
-    "Multiplexer.md",
-    "Karnaugh Map.md",
-    "Logic Gate.md",
-    "Or Gate.md",
-    "And Gate.md",
-    "Most Significant Bit.md",
-    "Bit.md",
-    "README.md",
-    "Register.md",
-    "x86_64.md",
-    "2's Complement.md",
-    "Watt.md",
-    "Voltage.md",
-    "PC-Jump.png",
+    "OSPP/M4/Seminar/Questions.pdf",
+    "OSPP/M4/Seminar/Q22.md",
+    "Central Processing Unit.md",
+    "OSPP.md",
+    "OSPP/M4/Seminar/Q26.md",
+    "OSPP/M4/Seminar/Q25.canvas",
+    "OSPP/M4/Seminar/Questions.md",
+    "OSPP/M4/Seminar/Q25.md",
+    "OSPP/M4/Seminar/Q24.md",
+    "OSPP/M4/Seminar/Q23.md",
+    "OSPP/M4/Seminar/Q21.md",
+    "OSPP/M4/Seminar/Q20.md",
+    "OSPP/M4/Seminar/Q19.md",
+    "OSPP/M4/Seminar/Q18.md",
+    "OSPP/M4/Seminar/Q17.md",
+    "Data Race.md",
+    "Mutual Exclusion.md",
+    "Race Condition.md",
+    "OSPP/M4/Seminar/Q16.md",
+    "OSPP/M4/Seminar/Dining Philophers Deadlock Prevention.png",
+    "OSPP/M4/Seminar/Deadlock Prevention.md",
+    "OSPP/M4/Seminar/Q4.md",
+    "OSPP/M4/Seminar/Q11.md",
+    "OSPP/M4/Seminar/Q9.md",
+    "OSPP/M4/Seminar/Q8.md",
+    "OSPP/M4/Seminar/Q15.md",
+    "OSPP/M4/Seminar/Q13.md",
+    "Atomic operation.md",
     "PC-branch.png",
     "Overflow Example.png",
     "Digital Circuit Evaluation.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "OSPP/M4/Seminar",
+    "OSPP/M4",
+    "OSPP",
+    "DARK",
+    "DARK/Syllabus.pdf",
+    "DARK/Schedule.pdf",
+    "J",
+    "PC-Jump.png",
     "Pasted image 20240324181912.png",
-    "Computer Architecture/Syllabus.pdf",
-    "Computer Architecture/Schedule.pdf",
     "4913",
     "obsidian-school/LICENSE",
-    "obsidian-school",
-    "LICENSE",
     "Pasted image 20240318223024.png",
-    "1",
     "Pasted image 20240318223048.png",
-    "Pasted image 20240318223038.png",
-    "Computer Architecture/ISA 1",
-    "Computer Architecture/Syllabus.pdf.crdownload",
-    "Schedule.pdf"
+    "Pasted image 20240318223038.png"
   ]
 }

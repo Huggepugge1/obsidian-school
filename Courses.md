@@ -1,2 +1,2 @@
-# Courses
-## [[Computer Architecture Course]]
+# [[Computer Architecture Course]]
+# [[OSPP]]

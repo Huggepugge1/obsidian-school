@@ -1,0 +1,1 @@
+When a [[Thread]] is requesting a resource but continuously gets denied indefinitely, this is called starvation.

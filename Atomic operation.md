@@ -1,0 +1,1 @@
+An atomic operation is a non interruptible [[Central Processing Unit|CPU]] [[instruction]].
