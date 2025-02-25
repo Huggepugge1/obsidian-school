@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Register.md",
+                "file": "Schedule.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Register"
+              "title": "Schedule"
             }
           }
         ]
@@ -155,8 +155,10 @@
   },
   "active": "a07c366784f3cc03",
   "lastOpenFiles": [
-    "Logik och bevisteknik/2024-03-18.md",
+    "Stack.md",
+    "Schedule.md",
     "Register.md",
+    "Logik och bevisteknik/2024-03-18.md",
     "Procedure.md",
     "I Instruction.md",
     "Endianness.md",
@@ -179,8 +181,6 @@
     "Syllabus.md",
     "Test.md",
     "x86_64.md",
-    "Watt.md",
-    "Stack.md",
     "PC-branch.png",
     "PC-Jump.png",
     "Overflow Example.png",
